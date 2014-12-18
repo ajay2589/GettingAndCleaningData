@@ -20,7 +20,7 @@ The aim of the project is to clean and extract usable data from the above zip fi
 - Appropriately labels the data set with descriptive variable names. 
 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-In this project, you find:
+In this repository, you find:
 
 - *run_analysis.R* : the R-code run on the data set
 
@@ -30,7 +30,7 @@ In this project, you find:
 
 - *README.md* : the analysis of the code in *run_analysis.R*
 
-- *analysis.html* : the html version of *README.md* that can be accessed at <>
+- *analysis.html* : the html version of *README.md* that can be accessed at <http://ajay2589.github.io/GettingAndCleaningData/analysis.html>
 
 ## Getting Started
 
